@@ -2,4 +2,7 @@
   .wrapper {
     display: block;
   }
+  .section1{border-radius: 0;}
+  .section2{border-radius: 0;}
+  .section3{border-radius: 0;}
 }
